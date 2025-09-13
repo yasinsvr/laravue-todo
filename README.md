@@ -1,8 +1,8 @@
 # laravel vue todo list
 ### how to install and use:
 ```
-git clone https://github.com/username/laravel-vuejs-todo.git
-cd laravel-vuejs-todo
+git clone https://github.com/yasinsvr/laravue-todo.git
+cd laravue-todo
 cd backend
 composer install
 php artisan serve
