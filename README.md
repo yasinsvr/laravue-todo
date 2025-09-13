@@ -6,8 +6,10 @@ cd laravue-todo
 cd backend
 composer install
 php artisan serve
-
-cd ../frontend
+```
+after installed and run backend open new terminal in laravue-todo folder and run this commands:
+```
+cd frontend
 npm install
 npm run dev
 ```
