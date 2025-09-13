@@ -5,6 +5,7 @@ git clone https://github.com/yasinsvr/laravue-todo.git
 cd laravue-todo
 cd backend
 composer install
+php artisan migrate
 php artisan serve
 ```
 after installed and run backend open new terminal in laravue-todo folder and run this commands:
